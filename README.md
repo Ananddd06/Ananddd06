@@ -1,6 +1,6 @@
 ![header](https://github.com/user-attachments/assets/b67063c0-1efb-46d7-9928-37e76d36797d)
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on: Java, Spring Boot, Hibernate, Spring Security, and full-stack development projects.<br>🌱 I’m currently learning: Java, Data Structures and Algorithms, Spring Boot, Hibernate, Spring Security.<br>💬 Ask me about: My experience with the L&T internship, Java, Spring Boot, Hibernate, Spring Security concepts, and software development methodologies.<br>⚡ Fun fact: I'm passionate about learning new technologies and solving complex problems.
+<br>👯 I’m looking to collaborate on: Machine Learning, AI/ML projects, Data Science, and Full-Stack Development.<br>🌱 I’m currently learning: Machine Learning, AI/ML algorithms, Deep Learning, Data Structures and Algorithms, Python, and Java.<br>💬 Ask me about: My experience as an AI/ML Engineer Intern at Gradtwin, Machine Learning algorithms, Deep Learning frameworks, and software development methodologies.<br>⚡ Fun fact: I'm passionate about learning new AI/ML technologies and solving complex problems with data-driven solutions.
 
 
 ## 🌐 Socials:

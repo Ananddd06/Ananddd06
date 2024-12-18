@@ -1,3 +1,4 @@
+![header](https://github.com/user-attachments/assets/b67063c0-1efb-46d7-9928-37e76d36797d)
 # 💫 About Me:
 <br>👯 I’m looking to collaborate on: Java, Spring Boot, Hibernate, Spring Security, and full-stack development projects.<br>🌱 I’m currently learning: Java, Data Structures and Algorithms, Spring Boot, Hibernate, Spring Security.<br>💬 Ask me about: My experience with the L&T internship, Java, Spring Boot, Hibernate, Spring Security concepts, and software development methodologies.<br>⚡ Fun fact: I'm passionate about learning new technologies and solving complex problems.
 

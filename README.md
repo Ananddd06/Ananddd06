@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Anand J - AI/ML Engineer | Full-Stack Developer 🌟</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&color=F7768E&size=24&center=true&lines=Passionate+AI%2FML+Engineer;Full-Stack+Developer+%7C+Innovator;Building+Scalable+Solutions!" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-activity-graph/master/images/header.svg" alt="header" width="100%" />
 </p>
 
 ---

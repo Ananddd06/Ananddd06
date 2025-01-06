@@ -17,8 +17,6 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 - 🎯 Focused on **problem-solving**, leveraging **DSA**, and optimizing workflows.  
 
 ### 🚀 Currently:
-- 📚 **M.Tech in AI/ML** @ SRM University (Weekend Program).  
-- 💼 **AI/ML Engineer Intern** @ Gradtwin, working on cutting-edge projects.  
 - 🎯 **Building:** Innovative apps using React Native, Clerk, and Convex.  
 
 ---
@@ -67,7 +65,6 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true" alt="Anand's GitHub Stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true" alt="GitHub Streak" width="400"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
@@ -83,6 +80,3 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
   <a href="https://github.com/Ananddd06"><img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Ananddd06&label=Profile%20Views&color=1&icon=0&pretty=true" alt="Profile View Counter" />
-</p>

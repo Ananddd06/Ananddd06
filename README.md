@@ -39,6 +39,8 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5?style=for-the-badge&logo=github-actions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23007ACC?style=for-the-badge&logo=azuredevops&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-%2361295D?style=for-the-badge&logo=mlflow&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-%2336A1A3?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
 ### 🌐 **Web & Mobile Development:**
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -48,13 +50,14 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 ![Clerk](https://img.shields.io/badge/Clerk-%2334463C?style=for-the-badge&logo=clerk&logoColor=white)
 ![Convex](https://img.shields.io/badge/Convex-%23F2B4B4?style=for-the-badge&logo=convex&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300f?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ## 🌟 Featured Projects
-### 🔥 **Medicine Reminder App**
-- **Tech:** React Native, Clerk Authentication, Stripe Payments.
-- **Features:** Reminder scheduling, secure payments, and user-friendly UI.
+### 🔥 **US Visa ML Prediction End-to-End MLOps**
+- **Tech:** Python, Scikit-learn, Flask, Docker, MLflow, AWS, CI/CD pipelines.
+- **Features:** End-to-end pipeline for US visa prediction using historical data, model evaluation, and deployment.
 
 ### 🌐 **Portfolio Website**
 - **Tech:** React.js, TailwindCSS, Three.js animations.

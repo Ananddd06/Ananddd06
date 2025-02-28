@@ -65,29 +65,14 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 
 ---
 
-## 📊 GitHub Stats for 2025
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true" alt="Anand's GitHub Stats" width="400"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
 </p>
-
-### 🏆 **Ranking for 2025**:
-Based on the activity of this year, your GitHub ranking is **A** (You made over 400 commits! Great job! 🚀)
-
----
-
-### 📅 **Yearly Activity**: 
-- **Repositories Created**: 12
-- **Commits Made**: 450
-- **Pull Requests Opened**: 25
-
-This would give a nice personalized ranking based on the metrics you are interested in for this year!
-
-If you want to fully automate this process, you'd need to implement a **GitHub API integration** to fetch your stats programmatically, process them, and update your profile dynamically.
 
 ---
 

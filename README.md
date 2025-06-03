@@ -1,5 +1,5 @@
 <div style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D'); background-size: cover; background-position: center; padding: 50px 0;">
-<h1 align="center">🌟 Anand J - AI/ML Engineer | Full-Stack Developer 🌟</h1>
+<h1 align="center">🌟 Anand J - AI/ML Engineer 🌟</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&color=F7768E&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+Innovator+%7C+Passionate+About+Tech+%7C+Building+Impactful+Solutions!" />

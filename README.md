@@ -18,7 +18,9 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 - 🎯 Focused on **problem-solving**, leveraging **DSA**, and optimizing workflows.  
 
 ### 🚀 Currently:
-- 🎯 **Building:** Innovative apps using React Native, Clerk, and Convex.  
+
+- 🎯 **Building:** 📘[Beginner to Advanced Machine Learning Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers): A deep-dive learning roadmap for ML aspirants — packed with concepts, hands-on notebooks, theory, projects, and real-world intution.
+- 👉 Star the repo, follow me for more advanced and beginner-friendly resources to supercharge your ML journey!
 
 ---
 

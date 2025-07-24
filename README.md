@@ -1,6 +1,6 @@
 <div style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D'); background-size: cover; background-position: center; padding: 50px 0;">
 <h1 align="center">🌟 Anand J - AI/ML Engineer 🌟</h1>
-
+  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&color=F7768E&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+Innovator+%7C+Passionate+About+Tech+%7C+Building+Impactful+Solutions!" />
 </p>
@@ -20,6 +20,7 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 ### 🚀 Currently:
 
 - 🎯 **Building:** 📘[Beginner to Advanced Machine Learning Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers): A deep-dive learning roadmap for ML aspirants — packed with concepts, hands-on notebooks, theory, projects, and real-world intution.
+- 🖥️ [Portfolio](https://portfolio-anandj.vercel.app) : Explore my interactive terminal-style developer portfolio built with React, Tailwind, and flair.
 - 👉 Star the repo, follow me for more advanced and beginner-friendly resources to supercharge your ML journey!
 
 ---

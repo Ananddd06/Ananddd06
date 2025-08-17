@@ -20,7 +20,7 @@ I specialize in designing intelligent systems and crafting modern, scalable appl
 ### 🚀 Currently:
 
 - 🎯 **Building:** 📘[Beginner to Advanced Machine Learning Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers): A deep-dive learning roadmap for ML aspirants — packed with concepts, hands-on notebooks, theory, projects, and real-world intution.
-- 🖥️ [Portfolio](https://portfolio-anandj.vercel.app) : Explore my interactive terminal-style developer portfolio built with React, Tailwind, and flair.
+- 🖥️ [Portfolio](https://portfolioresume-delta.vercel.app) : Explore my interactive terminal-style developer portfolio built with React, Tailwind, and flair.
 - 👉 Star the repo, follow me for more advanced and beginner-friendly resources to supercharge your ML journey!
 
 ---

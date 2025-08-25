@@ -56,9 +56,10 @@ I specialize in designing **intelligent systems** and crafting **modern, scalabl
 - **Tech:** Python, Scikit-learn, Flask, Docker, MLflow, AWS, CI/CD pipelines  
 - **Highlights:** End-to-end pipeline for **US visa prediction**, model evaluation, and deployment.  
 
-### 🌐 Interactive Portfolio Website
-- **Tech:** React.js, TailwindCSS, Three.js animations  
-- **Highlights:** Dynamic starfield background, interactive hover effects, and responsive design.
+### 🌐 MLOps Pipeline for Real-Time Network Threat Detection(End to End Mlops)
+- **Tech:** Python , Scikit-learn , Flask , Mlflow , DVC , Gitlab Actions
+- **Highlights:** Built a reproducible pipeline using DVC and MLflow to deploy an ensemble anomaly detection model for identifying network threats with high precision.
+
 
 ---
 

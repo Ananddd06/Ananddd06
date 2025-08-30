@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Anand**, a passionate **AI/ML Engineer** and **Full-Stack Developer**, blending **technology**, **creativity**, and **innovation** to build impactful solutions.  
+Hi there! I'm **Anand**, a passionate **AI/ML Engineer**, blending **technology**, **creativity**, and **innovation** to build impactful solutions.  
 
 I specialize in designing **intelligent systems** and crafting **modern, scalable applications** that make a real difference.  
 

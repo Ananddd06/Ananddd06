@@ -1,4 +1,5 @@
-![banner](https://github.com/user-attachments/assets/3bf1df60-f589-4376-8b85-8d19980fef73)
+
+![Unknown](https://github.com/user-attachments/assets/24792c69-6f28-4492-9e73-47a134229820)
 
 ## <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
 🚀 ESTABLISHING SECURE CONNECTION... WELCOME. 🚀

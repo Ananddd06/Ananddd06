@@ -36,19 +36,27 @@ A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scala
 
 ## 🚀 ACTIVE MISSIONS: `CURRENT_DATA_STREAMS.log`
 
-I’m always exploring new projects! Here are some of my **current primary objectives**:
+I’m always exploring new projects! Here’s what I’m currently building:
 
 ---
 
 ### 📘 Beginner to Advanced ML Guide
 **Comprehensive Machine Learning guide for freshers**  
-[![View Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Beginner_to_Advance_Machine_Learning_for_Freshers&theme=radical&show_owner=true)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)  
+**Highlights:**  
+- Step-by-step ML tutorials  
+- Real-world examples and datasets  
+- Beginner → Advanced roadmap
 
 ---
 
 ### 📝 Machine Learning In-depth Notes
 **Detailed ML notes, concepts, and practical examples**  
-[![View Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Machine_Learning_indepth_notes&theme=radical&show_owner=true)](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)
+[![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)  
+**Highlights:**  
+- Core ML concepts explained  
+- Hands-on exercises  
+- Ready-to-use reference notes
 
 ---
 

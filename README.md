@@ -142,7 +142,7 @@ I'm always working on something new! Here are my current primary objectives:
 #### 🌌 ACTIVITY HEATMAP
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ananddd06&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FFD700&point=FFD700" alt="Activity Graph"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Ananddd06&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FFD700&point=FFD700" alt="Activity Graph"/>
 </p>
 
 ---

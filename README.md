@@ -1,3 +1,4 @@
+![banner](https://github.com/user-attachments/assets/3bf1df60-f589-4376-8b85-8d19980fef73)
 <div align="center" style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4-0-3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%33'); background-size: cover; background-position: center; padding: 50px 20px; border-radius: 15px; box-shadow: 0 0 30px #00ffff;">
   <pre style="color:#00ffff; font-weight:bold; font-size:24px; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; background-color: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 15px; overflow-x:auto; display:inline-block;">
  █████╗    ███╗   ██╗    █████╗    ███╗   ██╗   ██████╗ 
@@ -6,9 +7,7 @@
 ██╔══██║   ██║╚██╗██║   ██╔══██║   ██║╚██╗██║   ██║   ██║
 ██║  ██║   ██║ ╚████║   ██║  ██║   ██║ ╚████║   ╚██████╔╝
 ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═════╝ 
-</pre>
-        ![banner](https://github.com/user-attachments/assets/1f4c9890-a087-4a41-9b60-595ffea29f96)
-
+  </pre>
 </div>
 
 ---

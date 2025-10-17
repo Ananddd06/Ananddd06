@@ -2,7 +2,7 @@
 ![Unknown](https://github.com/user-attachments/assets/24792c69-6f28-4492-9e73-47a134229820)
 
 ## <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
-🚀 ESTABLISHING SECURE CONNECTION... WELCOME. 🚀
+🚀 ESTABLISHING SECURE CONNECTION... WELCOME.
 </p>
 
 <pre style="background-color:#0d1117; color:#00fff7; padding:20px; border-radius:12px; box-shadow: 0 0 20px #00fff7;">

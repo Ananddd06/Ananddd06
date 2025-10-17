@@ -98,12 +98,17 @@ I'm always working on something new! Here are my current primary objectives:
 ## 🌟 > MISSION_LOGS: `HIGHLIGHTED_OPERATIONS.md`
 
 ### 🔮 Operation: Visa Oracle (End-to-End MLOps)
-- **Tech Stack:** `Python`, `Scikit-learn`, `Flask`, `Docker`, `MLflow`, `AWS`, `CI/CD` pipelines
+- **Tech Stack:** `Python`, `Scikit-learn`, `Flask`, `Docker`, `MLflow`, `AWS`, `CI/CD` pipelines  
 - **Mission Brief:** 🗂️ Architected and deployed a fully automated prediction pipeline for **US visa approval probabilities**. Features real-time model evaluation, versioning, and seamless cloud deployment. ☁️
 
 ### 🛡️ Operation: Cyber Sentinel (Real-Time Threat Detection)
-- **Tech Stack:** `Python`, `Scikit-learn`, `Flask`, `MLflow`, `DVC`, `Gitlab Actions`
-- **Mission Brief:** 🔒 Constructed a hardened, version-controlled defense grid against network anomalies. This system uses an ensemble of detection models, orchestrated via DVC and MLflow, to identify and neutralize threats with high precision.
+- **Tech Stack:** `Python`, `Scikit-learn`, `Flask`, `MLflow`, `DVC`, `Gitlab Actions`  
+- **Mission Brief:** 🔒 Constructed a hardened, version-controlled defense grid against network anomalies. This system uses an ensemble of detection models, orchestrated via DVC and MLflow, to identify and neutralize threats with high precision.  
+
+### ⚙️ Operation: Predictive Maintenance (Manufacturing Machines)
+- **Tech Stack:** `Python`, `PyTorch`, `Scikit-learn`, `Streamlit`,`Seaborn`,`Matplotlib`,`Transformer`
+- **Mission Brief:** 🏭 Developed an **end-to-end predictive maintenance system** for manufacturing machinery. Trained and compared multiple ML/DL models to identify the **best-performing model** for failure prediction. Integrated **live deployment using Streamlit**, enabling real-time monitoring and alerts for machinery health, optimizing uptime and reducing operational costs. ⚡
+
 
 ---
 

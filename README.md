@@ -36,28 +36,17 @@ A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scala
 
 ## 🚀 ACTIVE MISSIONS: `CURRENT_DATA_STREAMS.log`
 
-Here’s what I’m currently building and exploring in my AI/ML journey:
+I’m constantly building and experimenting! Here’s a **snapshot of my ongoing projects** in a modern portfolio grid layout:
 
 ---
 
-### 📘 Beginner to Advanced ML Guide
-> A **step-by-step Machine Learning guide** for beginners to advanced learners, including real datasets, projects, and hands-on exercises.  
-**Tech Stack:** `Python` | `NumPy` | `Pandas` | `Scikit-learn`  
-🔗 [View Repo](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)  
+| 📘 Beginner to Advanced ML Guide | 📝 Machine Learning In-depth Notes |
+|---------------------------------|----------------------------------|
+| > **Step-by-step ML guide for beginners → advanced learners** with real datasets, hands-on projects, and exercises. <br> **Tech:** `Python` • `NumPy` • `Pandas` • `Scikit-learn` <br> 🔗 [View Repo](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers) | > **Comprehensive ML notes & examples**, covering algorithms, models, pipelines, and coding exercises. <br> **Tech:** `Python` • `ML Concepts` • `Hands-on Examples` <br> 🔗 [View Repo](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git) |
 
----
-
-### 📝 Machine Learning In-depth Notes
-> Comprehensive **ML notes and practical examples** for understanding algorithms, models, and pipelines.  
-**Tech Stack:** `Python` | `ML Concepts` | `Hands-on Examples`  
-🔗 [View Repo](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)  
-
----
-
-### 🤖 Neural Networks from Scratch
-> Implemented **Neural Networks from scratch** using Python, covering forward pass, backward propagation, and training on sample datasets.  
-**Tech Stack:** `Python` | `NumPy` | `Matplotlib` | `ML Fundamentals`  
-🔗 [View Repo](https://github.com/Ananddd06/Neural_Networks_from_Scratch.git)  
+| ⚡ Predictive Maintenance System | 🤖 Neural Networks from Scratch |
+|--------------------------------|--------------------------------|
+| > **End-to-end predictive maintenance pipeline** for manufacturing machines. Best ML/DL model deployed **live via Streamlit**. <br> **Tech:** `Python` • `TensorFlow` • `PyTorch` • `Streamlit` • `MLflow` <br> 🔗 [View Repo](#) | > **Neural Networks from scratch**: forward & backward pass, training on sample datasets, visualization included. <br> **Tech:** `Python` • `NumPy` • `Matplotlib` • `ML Fundamentals` <br> 🔗 [View Repo](https://github.com/Ananddd06/Neural_Networks_from_Scratch.git) |
 
 ---
 

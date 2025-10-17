@@ -8,7 +8,7 @@
 ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═════╝ 
 </pre>
   <p style="color:#00ffff; font-size: 1.2em;">Initializing <strong>ANAND.CORE v4.0</strong> :: AI/ML Operations Protocol 🚀</p>
- <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&color=00FFFF&background=0D111700&center=true&vCenter=true&width=900&lines=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Transformers&repeat=true" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&color=00FFFF&background=0D111700&center=true&vCenter=true&width=900&lines=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20LLM&repeat=true" alt="Typing SVG"/>
 
 </div>
 

@@ -12,14 +12,12 @@
 </div>
 
 ---
-
 ### <p align="center">📡 > ESTABLISHING CONNECTION... WELCOME, DIGITAL TRAVELER. 📡</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&color=00FFCC&background=0D111700&center=true&vCenter=true&width=700&lines=$+echo+Hello,+I+am+Anand+👋;>_AI/ML+Engineer+|+Researcher+|+Tech+Enthusiast;>_Passionate+about+Deep+Learning,+Transformers+and+MLOps" alt="Terminal Typing" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&color=00FFCC&background=0D111700&center=true&vCenter=true&width=700&lines=$+echo+Hello,+I+am+Anand+👋%0A>_AI/ML+Engineer+|+Researcher+|+Tech+Enthusiast%0A>_Passionate+about+Deep+Learning,+Transformers+and+MLOps" alt="Terminal Typing" />
 </p>
+
 ---
 
 ## 🤖 > SYSTEM_LOG: `WHO_IS_ANAND.exe`

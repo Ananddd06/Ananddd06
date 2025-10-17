@@ -16,7 +16,7 @@
 </p>
 
 <pre style="background-color:#0d1117; color:#00fff7; padding:20px; border-radius:12px; box-shadow: 0 0 20px #00fff7;">
-$ echo "Hello, I am Anand 👋"
+$ echo "Hello, 👋"
 >_ AI/ML Engineer | Researcher | Tech Explorer
 >_ Specializing in Deep Learning, Transformers & MLOps
 >_ Always curious, always experimenting...

@@ -14,10 +14,12 @@
 ---
 ### <p align="center">📡 > ESTABLISHING CONNECTION... WELCOME, DIGITAL TRAVELER. 📡</p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&color=00FFCC&background=0D111700&center=true&vCenter=true&width=900&lines=$+echo+Hello,+I+am+Anand+👋&lines=>_AI/ML+Engineer+|+Researcher+|+Tech+Enthusiast&lines=>_Passionate+about+Deep+Learning,+Transformers+and+MLOps&duration=0" alt="Terminal Typing" />
-</p>
+```bash
+$ echo Hello, I am Anand 👋
+>_ AI/ML Engineer | Researcher | Tech Enthusiast
+>_ Passionate about Deep Learning, Transformers and MLOps
 
+```
 ---
 
 ## 🤖 > SYSTEM_LOG: `WHO_IS_ANAND.exe`

@@ -36,27 +36,21 @@ A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scala
 
 ## 🚀 ACTIVE MISSIONS: `CURRENT_DATA_STREAMS.log`
 
-I’m always exploring new projects! Here’s what I’m currently building:
+Here’s what I’m currently building and exploring in my AI/ML journey:
 
 ---
 
 ### 📘 Beginner to Advanced ML Guide
-**Comprehensive Machine Learning guide for freshers**  
-[![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)  
-**Highlights:**  
-- Step-by-step ML tutorials  
-- Real-world examples and datasets  
-- Beginner → Advanced roadmap
+> A **step-by-step Machine Learning guide** for beginners to advanced learners, including real datasets, projects, and hands-on exercises.  
+**Tech Stack:** `Python` | `NumPy` | `Pandas` | `Scikit-learn`  
+🔗 [View Repo](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)  
 
 ---
 
 ### 📝 Machine Learning In-depth Notes
-**Detailed ML notes, concepts, and practical examples**  
-[![GitHub Repo](https://img.shields.io/badge/View-Repo-blue?style=for-the-badge&logo=github)](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)  
-**Highlights:**  
-- Core ML concepts explained  
-- Hands-on exercises  
-- Ready-to-use reference notes
+> Comprehensive **ML notes and practical examples** for understanding algorithms, models, and pipelines.  
+**Tech Stack:** `Python` | `ML Concepts` | `Hands-on Examples`  
+🔗 [View Repo](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)  
 
 ---
 

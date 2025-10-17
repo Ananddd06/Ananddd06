@@ -23,7 +23,7 @@ $ echo "Hello, I am Anand 👋"
 </pre>
 
 ---
-## 🖥️ > PROFILE_BOOT: `ENGINEER_STATUS.exe`
+### 🖥️ > PROFILE_BOOT: `ENGINEER_STATUS.exe`
 
 Initializing... ✅  
 Loading skills matrix... ✅  

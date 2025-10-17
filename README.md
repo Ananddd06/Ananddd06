@@ -1,14 +1,14 @@
-<div align="center" style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D'); background-size: cover; background-position: center; padding: 50px 20px; border-radius: 15px; box-shadow: 0 0 30px #00ffff;">
-  <pre style="color:#00ffff; font-weight:bold; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; background-color: rgba(13, 17, 23, 0.7); padding: 15px; border-radius: 10px;">
- █████╗ ███╗   ██╗ ███╗   ██╗ ██████╗ 
-██╔══██╗████╗  ██║ ████╗  ██║██╔═══██╗
-███████║██╔██╗ ██║ ██╔██╗ ██║██║   ██║
-██╔══██║██║╚██╗██║ ██║╚██╗██║██║   ██║
-██║  ██║██║ ╚████║ ██║ ╚████║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═╝  ╚═══╝ ╚═════╝ 
-  </pre>
-  <p style="color:#00ffff; font-size: 1.2em;">Initializing <strong>ANAND.CORE v4.0</strong> :: AI/ML Operations Protocol 🚀</p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&color=00FFFF&background=0D111700&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Deep+Learning+%7C+Transformers+%7C+MLOps+%7C+Data+Science" alt="Typing SVG"/>
+<div align="center" style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4-0-3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%33'); background-size: cover; background-position: center; padding: 50px 20px; border-radius: 15px; box-shadow: 0 0 30px #00ffff;">
+  <pre style="color:#00ffff; font-weight:bold; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; background-color: rgba(13, 17, 23, 0.7); padding: 15px; border-radius: 10px;">
+ █████╗ ███╗   ██╗ ███╗   ██╗ ██████╗ 
+██╔══██╗████╗  ██║ ████╗  ██║██╔═══██╗
+███████║██╔██╗ ██║ ██╔██╗ ██║██║   ██║
+██╔══██║██║╚██╗██║ ██║╚██╗██║██║   ██║
+██║  ██║██║ ╚████║ ██║ ╚████║╚██████╔╝
+╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═╝  ╚═══╝ ╚═════╝ 
+  </pre>
+  <p style="color:#00ffff; font-size: 1.2em;">Initializing <strong>ANAND.CORE v4.0</strong> :: AI/ML Operations Protocol 🚀</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&color=00FFFF&background=0D111700&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+Deep+Learning+%7C+Transformers+%7C+MLOps+%7C+Data+Science" alt="Typing SVG"/>
 </div>
 
 ---
@@ -16,9 +16,9 @@
 ### <p align="center">📡 > ESTABLISHING CONNECTION... WELCOME, DIGITAL TRAVELER. 📡</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF00FF&vCenter=true&width=600&lines=Greetings.+I+am+Anand.+👋;A+Cybernetic+Engineer+and+Digital+Architect.;My+mission:+to+engineer+the+future,+one+line+of+code+at+a+time." alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF00FF&vCenter=true&width=600&lines=Greetings.+I+am+Anand.+👋;A+Cybernetic+Engineer+and+Digital+Architect.;My+mission:+to+engineer+the+future,+one+line+of+code+at+a+time." alt="Typing SVG">
+  </a>
 </p>
 
 ---
@@ -41,26 +41,26 @@ I specialize in designing **intelligent systems** 🧠 and crafting **modern, sc
 I'm always working on something new! Here are my current primary objectives:
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Beginner_to_Advance_Machine_Learning_for_Freshers&theme=radical&show_owner=true" alt="ML Guide Repo"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://portfolioresume-delta.vercel.app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Portfolio&theme=radical&show_owner=true" alt="Portfolio Repo"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Beginner_to_Advance_Machine_Learning_for_Freshers&theme=radical&show_owner=true" alt="ML Guide Repo"/>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://portfolioresume-delta.vercel.app">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Portfolio&theme=radical&show_owner=true" alt="Portfolio Repo"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 - 📘 **[Beginner to Advanced ML Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)** 🧠
-  - *Your deep-dive roadmap from novice to ML master, complete with notebooks, theory, and projects!*
+  - *Your deep-dive roadmap from novice to ML master, complete with notebooks, theory, and projects!*
 - 🖥️ **[Interactive Portfolio](https://portfolioresume-delta.vercel.app)** ✨
-  - *A Spotify-style digital gateway into my creative matrix, built with React & Tailwind.*
+  - *A Spotify-style digital gateway into my creative matrix, built with React & Tailwind.*
 - 🌟 **Objective:** Share resources to help you supercharge your ML journey. `Star` ⭐ and `follow` for mission updates!
 
 ---
@@ -68,31 +68,31 @@ I'm always working on something new! Here are my current primary objectives:
 ## 💻 > WEAPONS_&_SYSTEMS_ARSENAL: `TECH_STACK.json`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="60">
 </p>
 
 <div align="center">
-  <h3>🧬 Data Manipulation & Analysis Cores</h3>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-5A7D9A?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-F57C00?style=for-the-badge" />
-  
-  <h3>🤖 Machine Learning & AI Frameworks</h3>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194EF?logo=mlflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  
-  <h3>🚀 Deployment & Orchestration Protocols</h3>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CI%2FCD-43A047?logo=github&logoColor=white&style=for-the-badge" />
+  <h3>🧬 Data Manipulation & Analysis Cores</h3>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-5A7D9A?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Statistics-F57C00?style=for-the-badge" />
+  
+  <h3>🤖 Machine Learning & AI Frameworks</h3>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MLflow-0194EF?logo=mlflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
+  
+  <h3>🚀 Deployment & Orchestration Protocols</h3>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-43A047?logo=github&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
@@ -116,7 +116,7 @@ I'm always working on something new! Here are my current primary objectives:
 ### 🚀 CYBERNETIC PERFORMANCE DASHBOARD 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=18&color=00ffff&background=0D111700&center=true&vCenter=true&width=600&lines=Initializing+Performance+Metrics...;Scanning+GitHub+Data...;Analysis+Complete!" alt="Loading"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=18&color=00ffff&background=0D111700&center=true&vCenter=true&width=600&lines=Initializing+Performance+Metrics...;Scanning+GitHub+Data...;Analysis+Complete!" alt="Loading"/>
 </p>
 
 ---
@@ -124,9 +124,9 @@ I'm always working on something new! Here are my current primary objectives:
 #### 📈 CORE STATISTICS
 
 <p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/Contribution%20Streak-42%20Days-red?style=for-the-badge&logo=fire&logoColor=white" alt="Contribution Streak"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-1,337-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
-  <img src="https://custom-icon-badges.demolab.com/badge/Projects%20Completed-28-green?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Completed"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Contribution%20Streak-42%20Days-red?style=for-the-badge&logo=fire&logoColor=white" alt="Contribution Streak"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-1,337-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Projects%20Completed-28-green?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Completed"/>
 </p>
 
 ---
@@ -134,7 +134,7 @@ I'm always working on something new! Here are my current primary objectives:
 #### 🧬 CODING DNA SEQUENCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Top Languages"/>
 </p>
 
 ---
@@ -142,13 +142,13 @@ I'm always working on something new! Here are my current primary objectives:
 #### 🌌 ACTIVITY HEATMAP
 
 <div align="center">
-  <a href="https://github.com/Ananddd06">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFD700&currStreakNum=00FFFF" alt="GitHub Streak Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Ananddd06">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ananddd06&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFD700&hide_border=true" alt="Activity Graph" width="700"/>
-  </a>
+  <a href="https://github.com/Ananddd06">
+    <img src="https://streak-stats.demolab.com/?user=Ananddd06&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFD700&currStreakNum=00FFFF" alt="GitHub Streak Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Ananddd06">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananddd06&theme=radical&hide_border=true" alt="Activity Graph" width="700"/>
+  </a>
 </div>
 
 
@@ -159,11 +159,11 @@ I'm always working on something new! Here are my current primary objectives:
 ```bash
 > system_status --verbose
 ┌─────────────────────────────────────────────────────────────┐
-│ SYSTEM STATUS: OPERATIONAL                                 │
-│ PERFORMANCE: PEAK                                         │
-│ EFFICIENCY: 98.7%                                         │
-│ UPTIME: 99.9%                                             │
-│ NEXT MAINTENANCE: 2077-10-24                              │
+│ SYSTEM STATUS: OPERATIONAL                                  │
+│ PERFORMANCE: PEAK                                           │
+│ EFFICIENCY: 98.7%                                           │
+│ UPTIME: 99.9%                                               │
+│ NEXT MAINTENANCE: 2077-10-24                                │
 └─────────────────────────────────────────────────────────────┘
 ```
 

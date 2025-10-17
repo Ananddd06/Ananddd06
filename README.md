@@ -61,8 +61,6 @@ Here’s what I’m currently building and exploring in my AI/ML journey:
 
 ---
 
-- 📘 **[Beginner to Advanced ML Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)** 🧠
-  - *Your deep-dive roadmap from novice to ML master, complete with notebooks, theory, and projects!*
 - 🖥️ **[Interactive Portfolio](https://portfolioresume-delta.vercel.app)** ✨
   - *A Spotify-style digital gateway into my creative matrix, built with React & Tailwind.*
 - 🌟 **Objective:** Share resources to help you supercharge your ML journey. `Star` ⭐ and `follow` for mission updates!

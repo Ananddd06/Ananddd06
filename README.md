@@ -25,14 +25,9 @@ $ echo "Hello, I am Anand 👋"
 ---
 ### 🖥️ > PROFILE_BOOT: `ENGINEER_STATUS.exe`
 
-Initializing... ✅  
-Loading skills matrix... ✅  
-Deploying expertise modules... ✅  
-
-### 🚀 PROFESSIONAL SUMMARY
 A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scalable applications** 🌐 at the forefront of technology. Merging **innovation**, **logic**, and **creativity** to deliver real-world impact.
 
-### ✨ TECH STACK & CORE COMPETENCIES
+#### ✨ TECH STACK & CORE COMPETENCIES
 - 🧠 **Neural Network Mastery:** AI/ML models, `MLOps`, and production-ready pipelines.  
 - 🌐 **Digital Architecture:** Building `web & mobile apps` with clean, maintainable code.  
 - 🎯 **Problem-Solving Matrix:** Expert in `DSA`, algorithm optimization, and modern tech frameworks.  

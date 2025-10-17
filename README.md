@@ -54,6 +54,13 @@ Here’s what I’m currently building and exploring in my AI/ML journey:
 
 ---
 
+### 🤖 Neural Networks from Scratch
+> Implemented **Neural Networks from scratch** using Python, covering forward pass, backward propagation, and training on sample datasets.  
+**Tech Stack:** `Python` | `NumPy` | `Matplotlib` | `ML Fundamentals`  
+🔗 [View Repo](https://github.com/Ananddd06/Neural_Networks_from_Scratch.git)  
+
+---
+
 - 📘 **[Beginner to Advanced ML Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)** 🧠
   - *Your deep-dive roadmap from novice to ML master, complete with notebooks, theory, and projects!*
 - 🖥️ **[Interactive Portfolio](https://portfolioresume-delta.vercel.app)** ✨

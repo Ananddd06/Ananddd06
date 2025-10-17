@@ -1,9 +1,9 @@
-<div align="center" style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%3D%3D'); background-size: cover; background-position: center; padding: 50px 20px; border-radius: 15px;">
+<div align="center" style="background: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60'); background-size: cover; background-position: center; padding: 60px 20px; border-radius: 15px; color: #ffffff;">
 
-<h1>🌟 Anand J - AI/ML Engineer & Full-Stack Innovator 🌟</h1>
+<h1>🤖 Anand J - AI/ML Engineer & Research Enthusiast</h1>
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&color=F7768E&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Full-Stack+Developer+%7C+Innovator+%7C+Passionate+About+Tech+%7C+Building+Impactful+Solutions!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=24&color=F7768E&vCenter=true&width=700&lines=AI%2FML+Engineer+%7C+MLOps+%7C+NLP+%7C+Deep+Learning+%7C+Building+Intelligent+Systems" alt="Typing SVG"/>
 </p>
 </div>
 
@@ -11,23 +11,21 @@
 
 ## 👋 About Me
 
-Hi there! I'm **Anand**, a passionate **AI/ML Engineer**, blending **technology**, **creativity**, and **innovation** to build impactful solutions.  
+Hi! I’m **Anand**, an AI/ML engineer passionate about building **intelligent systems**, **production-ready ML pipelines**, and **research-driven solutions**.  
 
-I specialize in designing **intelligent systems** and crafting **modern, scalable applications** that make a real difference.  
+- 🧠 Specialized in **Machine Learning, Deep Learning, NLP, and MLOps**  
+- ⚡ Focused on **end-to-end AI solutions**, from **data processing** to **deployment**  
+- 🎯 Interested in **model optimization, probabilistic modeling**, and **scalable ML pipelines**
 
-### 🌟 Highlights
-- 🧠 Proficient in **AI/ML**, **MLOps**, and production-ready pipelines.  
-- 🌐 Skilled in **web & mobile apps** with clean, maintainable code.  
-- 🎯 Strong problem solver leveraging **DSA**, optimization, and modern tech.  
+### 🚀 Current Projects
 
-### 🚀 Currently Working On
-- 📘 **[Beginner to Advanced Machine Learning Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)** – Deep-dive ML roadmap with notebooks, theory, projects, and real-world intuition.  
-- 🖥️ **[Portfolio](https://portfolioresume-delta.vercel.app)** – Interactive, Spotify-style portfolio with React, Tailwind, and animations.  
-- 🌟 Sharing resources to help you supercharge your ML journey. Star & follow for updates!
+- 📘 **[Beginner to Advanced Machine Learning Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)** – A comprehensive roadmap including theory, notebooks, and real-world projects.  
+- 🔥 **US Visa ML Prediction (End-to-End MLOps)** – Python, Scikit-learn, Flask, Docker, MLflow, AWS, CI/CD pipelines. Predict visa approvals with production-ready pipelines.  
+- 🌐 **Network Threat Detection Pipeline (End-to-End MLOps)** – Ensemble anomaly detection model with DVC, MLflow, and GitLab Actions for real-time threat detection.
 
 ---
 
-## 💻 Tech Stack
+## 💻 AI/ML Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
@@ -40,8 +38,9 @@ I specialize in designing **intelligent systems** and crafting **modern, scalabl
   <img src="https://img.shields.io/badge/MLflow-0194EF?logo=mlflow&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21F?logo=huggingface&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" />
-  <img src="https://img.shields.io/badge/Statistics-F57C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-4CAF50?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Airflow-017CEE?logo=apache-airflow&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge" />
@@ -50,24 +49,11 @@ I specialize in designing **intelligent systems** and crafting **modern, scalabl
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔥 US Visa ML Prediction (End-to-End MLOps)
-- **Tech:** Python, Scikit-learn, Flask, Docker, MLflow, AWS, CI/CD pipelines  
-- **Highlights:** End-to-end pipeline for **US visa prediction**, model evaluation, and deployment.  
-
-### 🌐 MLOps Pipeline for Real-Time Network Threat Detection(End to End Mlops)
-- **Tech:** Python , Scikit-learn , Flask , Mlflow , DVC , Gitlab Actions
-- **Highlights:** Built a reproducible pipeline using DVC and MLflow to deploy an ensemble anomaly detection model for identifying network threats with high precision.
-
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true" alt="Anand's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true" width="400"/>
 </p>
 
 ---
@@ -82,4 +68,4 @@ I specialize in designing **intelligent systems** and crafting **modern, scalabl
 
 ---
 
-<p align="center">Made with ❤️ by Anand J | Always Learning & Building 🚀</p>
+<p align="center">Made with ❤️ by Anand J | Always Learning & Building Cutting-Edge AI Solutions 🚀</p>

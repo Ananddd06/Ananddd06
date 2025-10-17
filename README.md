@@ -141,9 +141,16 @@ I'm always working on something new! Here are my current primary objectives:
 
 #### 🌌 ACTIVITY HEATMAP
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ananddd06&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FFD700&point=FFD700" alt="Activity Graph"/>
-</p>
+<div align="center">
+  <a href="https://github.com/Ananddd06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFD700&currStreakNum=00FFFF" alt="GitHub Streak Stats" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Ananddd06">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ananddd06&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFD700&hide_border=true" alt="Activity Graph" width="700"/>
+  </a>
+</div>
+
 
 ---
 

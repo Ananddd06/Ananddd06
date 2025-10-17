@@ -112,82 +112,53 @@ I'm always working on something new! Here are my current primary objectives:
 ## 📊 > PERFORMANCE_METRICS: `SYSTEM_STATUS.dat`
 
 <div align="center">
-  <div style="background-color:#0d1117; border-radius:15px; padding:20px; box-shadow:0 0 20px #00ffff; margin-bottom:20px;">
-    <h2 style="color:#00ffff; text-shadow:0 0 10px #00ffff;">🔮 QUANTUM PERFORMANCE ANALYSIS 🔮</h2>
-    
-    <table style="width:100%; border-collapse:collapse; margin-top:15px;">
-      <tr>
-        <td style="padding:10px; border:1px solid #00ffff; text-align:center;">
-          <div style="font-size:50px; color:#FFD700;">⚡</div>
-          <div style="color:#00ffff; font-weight:bold;">CONTRIBUTION STREAK</div>
-          <div style="color:#FFD700; font-size:24px; font-weight:bold;">42 DAYS</div>
-          <div style="color:#00ffff; font-size:14px;">🔥 CONSISTENT CODING 🔥</div>
-        </td>
-        <td style="padding:10px; border:1px solid #00ffff; text-align:center;">
-          <div style="font-size:50px; color:#FFD700;">🚀</div>
-          <div style="color:#00ffff; font-weight:bold;">TOTAL COMMITS</div>
-          <div style="color:#FFD700; font-size:24px; font-weight:bold;">1,337</div>
-          <div style="color:#00ffff; font-size:14px;">📈 GROWING EXPONENTIALLY 📈</div>
-        </td>
-        <td style="padding:10px; border:1px solid #00ffff; text-align:center;">
-          <div style="font-size:50px; color:#FFD700;">🌟</div>
-          <div style="color:#00ffff; font-weight:bold;">PROJECTS COMPLETED</div>
-          <div style="color:#FFD700; font-size:24px; font-weight:bold;">28</div>
-          <div style="color:#00ffff; font-size:14px;">🎯 MISSION ACCOMPLISHED 🎯</div>
-        </td>
-      </tr>
-    </table>
-    
-    <div style="margin-top:20px; padding:15px; background-color:rgba(0,255,255,0.1); border-radius:10px;">
-      <h3 style="color:#00ffff; margin-top:0;">🧬 CODING DNA BREAKDOWN 🧬</h3>
-      <div style="display:flex; justify-content:space-between; margin-top:10px;">
-        <div style="text-align:center; width:18%;">
-          <div style="background-color:#3776AB; color:white; padding:5px; border-radius:5px; font-weight:bold;">Python</div>
-          <div style="color:#00ffff; font-size:20px; font-weight:bold;">35%</div>
-        </div>
-        <div style="text-align:center; width:18%;">
-          <div style="background-color:#F7931E; color:white; padding:5px; border-radius:5px; font-weight:bold;">JavaScript</div>
-          <div style="color:#00ffff; font-size:20px; font-weight:bold;">25%</div>
-        </div>
-        <div style="text-align:center; width:18%;">
-          <div style="background-color:#2496ED; color:white; padding:5px; border-radius:5px; font-weight:bold;">Docker</div>
-          <div style="color:#00ffff; font-size:20px; font-weight:bold;">15%</div>
-        </div>
-        <div style="text-align:center; width:18%;">
-          <div style="background-color:#0194EF; color:white; padding:5px; border-radius:5px; font-weight:bold;">MLflow</div>
-          <div style="color:#00ffff; font-size:20px; font-weight:bold;">15%</div>
-        </div>
-        <div style="text-align:center; width:18%;">
-          <div style="background-color:#FFD21F; color:black; padding:5px; border-radius:5px; font-weight:bold;">Other</div>
-          <div style="color:#00ffff; font-size:20px; font-weight:bold;">10%</div>
-        </div>
-      </div>
-    </div>
-    
-    <div style="margin-top:20px; padding:15px; background-color:rgba(0,255,255,0.1); border-radius:10px;">
-      <h3 style="color:#00ffff; margin-top:0;">🌌 ACTIVITY MATRIX 🌌</h3>
-      <div style="font-family:monospace; color:#00ffff; line-height:1.2; font-size:12px;">
-        █████████████████████████████████████████████████████<br>
-        █████████████████████████████████████████████████████<br>
-        █████████████████████████████████████████████████████<br>
-        █████████████████████████████████████████████████████<br>
-        █████████████████████████████████████████████████████<br>
-        █████████████████████████████████████████████████████<br>
-        █████████████████████████████████████████████████████<br>
-      </div>
-      <div style="text-align:center; color:#FFD700; margin-top:10px;">
-        <span style="margin:0 10px;">■ Less Active</span>
-        <span style="margin:0 10px;">■■■■■■■ More Active</span>
-      </div>
-    </div>
-    
-    <div style="margin-top:20px; text-align:center;">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=18&color=FFD700&background=0D111700&center=true&vCenter=true&width=600&lines=System+Status:+OPTIMAL;Performance:+EXCEPTIONAL;Efficiency:+MAXIMUM" alt="System Status"/>
-    </div>
-  </div>
-</div>
+
+### 🚀 CYBERNETIC PERFORMANCE DASHBOARD 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=18&color=00ffff&background=0D111700&center=true&vCenter=true&width=600&lines=Initializing+Performance+Metrics...;Scanning+GitHub+Data...;Analysis+Complete!" alt="Loading"/>
+</p>
 
 ---
+
+#### 📈 CORE STATISTICS
+
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/Contribution%20Streak-42%20Days-red?style=for-the-badge&logo=fire&logoColor=white" alt="Contribution Streak"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Total%20Commits-1,337-blue?style=for-the-badge&logo=git&logoColor=white" alt="Total Commits"/>
+  <img src="https://custom-icon-badges.demolab.com/badge/Projects%20Completed-28-green?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects Completed"/>
+</p>
+
+---
+
+#### 🧬 CODING DNA SEQUENCE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C9D1D9" alt="Top Languages"/>
+</p>
+
+---
+
+#### 🌌 ACTIVITY HEATMAP
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ananddd06&theme=radical&hide_border=true&bg_color=0D1117&color=00FFFF&line=FFD700&point=FFD700" alt="Activity Graph"/>
+</p>
+
+---
+
+#### 🖥️ SYSTEM STATUS
+
+```bash
+> system_status --verbose
+┌─────────────────────────────────────────────────────────────┐
+│ SYSTEM STATUS: OPERATIONAL                                 │
+│ PERFORMANCE: PEAK                                         │
+│ EFFICIENCY: 98.7%                                         │
+│ UPTIME: 99.9%                                             │
+│ NEXT MAINTENANCE: 2077-10-24                              │
+└─────────────────────────────────────────────────────────────┘
+```
 
 ## 📡 > ESTABLISH_COMMUNICATION_CHANNEL: `CONNECT.hail`
 

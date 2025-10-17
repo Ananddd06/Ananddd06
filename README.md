@@ -11,26 +11,31 @@
 </div>
 
 ---
-### <p align="center">📡 > ESTABLISHING CONNECTION... WELCOME, DIGITAL TRAVELER. 📡</p>
+### <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
+🚀 ESTABLISHING SECURE CONNECTION... WELCOME. 🚀
+</p>
 
-```bash
-$ echo Hello, I am Anand 👋
->_ AI/ML Engineer | Researcher | Tech Enthusiast
->_ Passionate about Deep Learning, Transformers and MLOps
+<pre style="background-color:#0d1117; color:#00fff7; padding:20px; border-radius:12px; box-shadow: 0 0 20px #00fff7;">
+$ echo "Hello, I am Anand 👋"
+>_ AI/ML Engineer | Researcher | Tech Explorer
+>_ Specializing in Deep Learning, Transformers & MLOps
+>_ Always curious, always experimenting...
+</pre>
 
-```
 ---
+## 🖥️ > PROFILE_BOOT: `ENGINEER_STATUS.exe`
 
-## 🤖 > SYSTEM_LOG: `WHO_IS_ANAND.exe`
+Initializing... ✅  
+Loading skills matrix... ✅  
+Deploying expertise modules... ✅  
 
-Greetings! I'm **Anand** 👋, a passionate **AI/ML Engineer** navigating the digital cosmos. I blend **technology**, **creativity**, and **innovation** to build impactful solutions that make a difference. 🌌
+### 🚀 PROFESSIONAL SUMMARY
+A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scalable applications** 🌐 at the forefront of technology. Merging **innovation**, **logic**, and **creativity** to deliver real-world impact.
 
-I specialize in designing **intelligent systems** 🧠 and crafting **modern, scalable applications** 🌐 that operate at the edge of the possible.
-
-### ✨ CORE_CAPABILITIES.txt
-- 🧠 **Neural Network Mastery:** Proficient in `AI/ML`, `MLOps`, and production-ready data pipelines.
-- 🌐 **Digital Architecture:** Skilled in constructing `web & mobile apps` with clean, maintainable code.
-- 🎯 **Problem-Solving Matrix:** A strong logician leveraging `DSA`, optimization, and modern tech.
+### ✨ TECH STACK & CORE COMPETENCIES
+- 🧠 **Neural Network Mastery:** AI/ML models, `MLOps`, and production-ready pipelines.  
+- 🌐 **Digital Architecture:** Building `web & mobile apps` with clean, maintainable code.  
+- 🎯 **Problem-Solving Matrix:** Expert in `DSA`, algorithm optimization, and modern tech frameworks.  
 
 ---
 

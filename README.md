@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF00FF&vCenter=true&width=600&lines=Greetings.+I+am+Anand.+👋;A+Cybernetic+Engineer+and+Digital+Architect.;My+mission:+to+engineer+the+future,+one+line+of+code+at+a+time." alt="Typing SVG">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=22&color=00FFCC&background=0D111700&center=true&vCenter=true&width=700&lines=$+echo+Hello,+I+am+Anand+👋;>_AI/ML+Engineer+|+Researcher+|+Tech+Enthusiast;>_Passionate+about+Deep+Learning,+Transformers+and+MLOps" alt="Terminal Typing" />
   </a>
 </p>
 ---
@@ -48,10 +48,10 @@ I'm always working on something new! Here are my current primary objectives:
         </a>
       </td>
       <td width="50%">
-        <a href="https://portfolioresume-delta.vercel.app">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Portfolio&theme=radical&show_owner=true" alt="Portfolio Repo"/>
-        </a>
-      </td>
+        <a href="https://github.com/Ananddd06/Machine_Learning_indepth_notes.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Machine_Learning_indepth_notes&theme=radical&show_owner=true" alt="ML Notes Repo"/>
+        </a>
+      </td>
     </tr>
   </table>
 </div>

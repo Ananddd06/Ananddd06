@@ -34,26 +34,23 @@ A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scala
 
 ---
 
-## 🚀 > ACTIVE_MISSIONS: `CURRENT_DATA_STREAMS.log`
+## 🚀 ACTIVE MISSIONS: `CURRENT_DATA_STREAMS.log`
 
-I'm always working on something new! Here are my current primary objectives:
+I’m always exploring new projects! Here are some of my **current primary objectives**:
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Beginner_to_Advance_Machine_Learning_for_Freshers&theme=radical&show_owner=true" alt="ML Guide Repo"/>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/Ananddd06/Machine_Learning_indepth_notes.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Machine_Learning_indepth_notes&theme=radical&show_owner=true" alt="ML Notes Repo"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+---
+
+### 📘 Beginner to Advanced ML Guide
+**Comprehensive Machine Learning guide for freshers**  
+[![View Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Beginner_to_Advance_Machine_Learning_for_Freshers&theme=radical&show_owner=true)](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)
+
+---
+
+### 📝 Machine Learning In-depth Notes
+**Detailed ML notes, concepts, and practical examples**  
+[![View Repo](https://github-readme-stats.vercel.app/api/pin/?username=Ananddd06&repo=Machine_Learning_indepth_notes&theme=radical&show_owner=true)](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)
+
+---
 
 - 📘 **[Beginner to Advanced ML Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)** 🧠
   - *Your deep-dive roadmap from novice to ML master, complete with notebooks, theory, and projects!*

@@ -7,8 +7,8 @@
 ██║  ██║   ██║ ╚████║   ██║  ██║   ██║ ╚████║   ╚██████╔╝
 ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═════╝ 
 </pre>
-  <p style="color:#00ffff; font-size: 1.2em;">Initializing <strong>ANAND.CORE v4.0</strong> :: AI/ML Operations Protocol 🚀</p>
-        ![banner](https://github.com/user-attachments/assets/359c570a-606b-49d9-bcae-6db095748581)
+        ![banner](https://github.com/user-attachments/assets/1f4c9890-a087-4a41-9b60-595ffea29f96)
+
 </div>
 
 ---

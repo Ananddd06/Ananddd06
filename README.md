@@ -1,12 +1,12 @@
 <div align="center" style="background-image: url('https://images.unsplash.com/photo-1556075798-4825dfaaf498?w=900&auto=format&fit=crop&q=60&ixlib=rb-4-0-3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGdpdGh1YnxlbnwwfHwwfHx8MA%33'); background-size: cover; background-position: center; padding: 50px 20px; border-radius: 15px; box-shadow: 0 0 30px #00ffff;">
-  <pre style="color:#00ffff; font-weight:bold; text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; background-color: rgba(13, 17, 23, 0.7); padding: 15px; border-radius: 10px;">
- █████╗ ███╗   ██╗ ███╗   ██╗ ██████╗ 
-██╔══██╗████╗  ██║ ████╗  ██║██╔═══██╗
-███████║██╔██╗ ██║ ██╔██╗ ██║██║   ██║
-██╔══██║██║╚██╗██║ ██║╚██╗██║██║   ██║
-██║  ██║██║ ╚████║ ██║ ╚████║╚██████╔╝
-╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═╝  ╚═══╝ ╚═════╝ 
-  </pre>
+  <pre style="color:#00ffff; font-weight:bold; font-size:24px; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff; background-color: rgba(13, 17, 23, 0.7); padding: 20px; border-radius: 15px; overflow-x:auto; display:inline-block;">
+ █████╗    ███╗   ██╗    █████╗    ███╗   ██╗   ██████╗ 
+██╔══██╗   ████╗  ██║   ██╔══██╗   ████╗  ██║   ██╔═══██╗
+███████║   ██╔██╗ ██║   ███████║   ██╔██╗ ██║   ██║   ██║
+██╔══██║   ██║╚██╗██║   ██╔══██║   ██║╚██╗██║   ██║   ██║
+██║  ██║   ██║ ╚████║   ██║  ██║   ██║ ╚████║   ╚██████╔╝
+╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═╝  ╚═╝   ╚═╝  ╚═══╝   ╚═════╝ 
+</pre>
   <p style="color:#00ffff; font-size: 1.2em;">Initializing <strong>ANAND.CORE v4.0</strong> :: AI/ML Operations Protocol 🚀</p>
  <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&size=22&color=00FFFF&background=0D111700&center=true&vCenter=true&width=900&lines=Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20Transformers&repeat=true" alt="Typing SVG"/>
 

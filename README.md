@@ -16,11 +16,10 @@
 ### <p align="center">📡 > ESTABLISHING CONNECTION... WELCOME, DIGITAL TRAVELER. 📡</p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&color=FF00FF&vCenter=true&width=600&lines=Greetings.+I+am+Anand.+👋;A+Cybernetic+Engineer+and+Digital+Architect.;My+mission:+to+engineer+the+future,+one+line+of+code+at+a+time." alt="Typing SVG">
-  </a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&color=FF00FF&vCenter=true&width=600&lines=Greetings.+I+am+Anand.+👋;A+Cybernetic+Engineer+and+Digital+Architect.;My+mission:+to+engineer+the+future,+one+line+of+code+at+a+time." alt="Typing SVG">
+  </a>
 </p>
-
 ---
 
 ## 🤖 > SYSTEM_LOG: `WHO_IS_ANAND.exe`
@@ -143,14 +142,9 @@ I'm always working on something new! Here are my current primary objectives:
 
 <div align="center">
   <a href="https://github.com/Ananddd06">
-    <img src="https://streak-stats.demolab.com/?user=Ananddd06&theme=radical&hide_border=true&border_radius=10&background=0D1117&stroke=00FFFF&ring=FF00FF&fire=FFD700&currStreakNum=00FFFF" alt="GitHub Streak Stats" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/Ananddd06">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananddd06&theme=radical&hide_border=true" alt="Activity Graph" width="700"/>
   </a>
 </div>
-
 
 ---
 

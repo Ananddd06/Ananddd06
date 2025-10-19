@@ -18,8 +18,7 @@ $ echo "Hello, I 'am Anand 👋"
 A dedicated **AI/ML Engineer** crafting **intelligent systems** 🧠 and **scalable applications** 🌐 at the forefront of technology. Merging **innovation**, **logic**, and **creativity** to deliver real-world impact.
 
 #### ✨ TECH STACK & CORE COMPETENCIES
-- 🧠 **Neural Network Mastery:** AI/ML models, `MLOps`, and production-ready pipelines.  
-- 🌐 **Digital Architecture:** Building `web & mobile apps` with clean, maintainable code.  
+- 🧠 **Neural Network Mastery:** AI/ML models, `MLOps`, and production-ready pipelines.   
 - 🎯 **Problem-Solving Matrix:** Expert in `DSA`, algorithm optimization, and modern tech frameworks.  
 
 ---

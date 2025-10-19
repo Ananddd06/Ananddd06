@@ -136,16 +136,16 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
 
 #### 🖥️ SYSTEM STATUS
 
-```bash
-> system_status --verbose
-┌─────────────────────────────────────────────────────────────┐
-│ SYSTEM STATUS: OPERATIONAL                                  │
-│ PERFORMANCE: PEAK                                           │
-│ EFFICIENCY: 98.7%                                           │
-│ UPTIME: 99.9%                                               │
-│ NEXT MAINTENANCE: 2077-10-24                                │
-└─────────────────────────────────────────────────────────────┘
-```
+SYSTEM STATUS
+
+STATUS       ▸ OPERATIONAL ✅
+PERFORMANCE  ▸ PEAK ⚡
+EFFICIENCY   ▸ 98.7%
+UPTIME       ▸ 99.9%
+NEXT MAINT   ▸ 2077-10-24 🛠
+─────────────────────────────────
+
+---
 
 ## 📡 > ESTABLISH_COMMUNICATION_CHANNEL: `CONNECT.hail`
 

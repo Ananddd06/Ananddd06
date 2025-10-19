@@ -135,6 +135,7 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
 ---
 
 #### 🖥️ SYSTEM STATUS
+```
 
 SYSTEM STATUS
 
@@ -144,6 +145,8 @@ EFFICIENCY   ▸ 98.7%
 UPTIME       ▸ 99.9%
 NEXT MAINT   ▸ 2077-10-24 🛠
 ─────────────────────────────────
+
+```
 
 ---
 

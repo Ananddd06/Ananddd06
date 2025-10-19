@@ -133,6 +133,11 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
   </a>
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ananddd06/Ananddd06/output/pacman-contribution-graph.svg" width="700"/>
+</div>
+
+
 ---
 
 #### 🖥️ SYSTEM STATUS

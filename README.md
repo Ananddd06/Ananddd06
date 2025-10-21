@@ -1,6 +1,5 @@
 
 ![Unknown](https://github.com/user-attachments/assets/24792c69-6f28-4492-9e73-47a134229820)
-<img width="1680" height="1050" alt="Screenshot 2025-10-21 at 22 29 43" src="https://github.com/user-attachments/assets/b9e133d0-455f-4d65-a9f1-4786c2e5210f" />
 
 ## <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
 🚀 ESTABLISHING SECURE CONNECTION... WELCOME.

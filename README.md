@@ -1,5 +1,5 @@
 
-![Unknown](https://github.com/user-attachments/assets/24792c69-6f28-4492-9e73-47a134229820)
+![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/8e2973d6-8844-4e25-82c3-1f21af4f983e)
 
 ## <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
 🚀 ESTABLISHING SECURE CONNECTION... WELCOME.

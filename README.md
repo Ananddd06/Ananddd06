@@ -1,5 +1,5 @@
 
-![Programming aesthetic wallpaper](https://github.com/user-attachments/assets/8e2973d6-8844-4e25-82c3-1f21af4f983e)
+![This pin is all about coding](https://github.com/user-attachments/assets/7f3bf91d-ac1f-47b6-8351-f4d87e1c9075)
 
 ## <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
 🚀 ESTABLISHING SECURE CONNECTION... WELCOME.

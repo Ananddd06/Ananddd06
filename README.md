@@ -47,7 +47,7 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
 
 ---
 
-## 📄 > ACCESS_RESUME: `RESUME.pdf`
+### 📄 > ACCESS_RESUME: `RESUME.pdf`
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1OhzYRGTYi41CbHczReJN3WH2WPlwbT3D/view?usp=sharing" target="_blank">

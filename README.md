@@ -56,7 +56,7 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
 </p>
 
 <p align="center">
-  <i>Click above to view/download my resume. Always updated with latest projects and experience. 🛠️</i>
+  <i>Click above to view or download my resume. Always updated with latest projects and experience. 🛠️</i>
 </p>
 
 ---

@@ -45,6 +45,22 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
 
 ---
 
+---
+
+## 📄 > ACCESS_RESUME: `RESUME.pdf`
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1OhzYRGTYi41CbHczReJN3WH2WPlwbT3D/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobe&logoColor=white" alt="Resume">
+  </a>
+</p>
+
+<p align="center">
+  <i>Click above to view/download my resume. Always updated with latest projects and experience. 🛠️</i>
+</p>
+
+---
+
 ## 💻 > WEAPONS_&_SYSTEMS_ARSENAL: `TECH_STACK.json`
 
 <p align="center">

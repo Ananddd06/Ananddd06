@@ -1,5 +1,9 @@
-
-![This pin is all about coding](https://github.com/user-attachments/assets/7f3bf91d-ac1f-47b6-8351-f4d87e1c9075)
+<!-- GitHub Profile Banner -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5f80c9f3-fe99-4c3c-bceb-04ed54fd17d4" 
+       alt="Programming Aesthetic Wallpaper" 
+       style="width:100%; max-width:1280px; height:auto;" />
+</p>
 
 ## <p align="center" style="font-family: 'Courier New', monospace; color:#00fff7;">
 🚀 ESTABLISHING SECURE CONNECTION... WELCOME.

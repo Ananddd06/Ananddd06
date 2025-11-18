@@ -39,7 +39,7 @@ I’m constantly building and experimenting! Here’s a **snapshot of my ongoing
 
 | ⚡ Predictive Maintenance System | 🤖 Neural Networks from Scratch |
 |--------------------------------|--------------------------------|
-| > **End-to-end predictive maintenance pipeline** for manufacturing machines. Best ML/DL model deployed **live via Streamlit**. <br> **Tech:** `Python` • `TensorFlow` • `PyTorch` • `Streamlit` • `MLflow` <br> 🔗 [View Repo](#) | > **Neural Networks from scratch**: forward & backward pass, training on sample datasets, visualization included. <br> **Tech:** `Python` • `NumPy` • `Matplotlib` • `ML Fundamentals` <br> 🔗 [View Repo](https://github.com/Ananddd06/Neural_Networks_from_Scratch.git) |
+| > **End-to-end predictive maintenance pipeline** for manufacturing machines. Best ML/DL model deployed **live via Streamlit**. <br> **Tech:** `Python` • `TensorFlow` • `PyTorch` • `Streamlit` • `MLflow` <br> 🔗 [View Repo](https://github.com/Ananddd06/PredictiveMaintenance_AIStudy) | > **Neural Networks from scratch**: forward & backward pass, training on sample datasets, visualization included. <br> **Tech:** `Python` • `NumPy` • `Matplotlib` • `ML Fundamentals` <br> 🔗 [View Repo](https://github.com/Ananddd06/Neural_Networks_from_Scratch.git) |
 
 ---
 

@@ -34,7 +34,7 @@ class AIEngineer:
         self.role = "AI/ML Engineer & Researcher"
         self.focus = ["Deep Learning", "Transformers", "MLOps", "Production AI"]
         self.philosophy = "Understand every line, build from scratch, deploy to production"
-    
+
     def current_mission(self):
         return "Teaching 10,000+ developers to build LLMs from first principles"
 ```
@@ -69,6 +69,7 @@ class AIEngineer:
 ```
 
 **🎯 WHAT YOU'LL MASTER:**
+
 - ✅ Tokenization (BPE, WordPiece, SentencePiece)
 - ✅ All Attention Variants (Self, Multi-Head, Grouped-Query, Flash)
 - ✅ Transformer Architecture Deep-Dive
@@ -109,6 +110,7 @@ class AIEngineer:
 ```
 
 **🎯 WHY THIS MATTERS:**
+
 - 🔍 **Zero Abstractions** - See every calculation
 - 🧠 **Pure Understanding** - No library magic
 - 📐 **Mathematical Foundations** - From equations to code
@@ -135,6 +137,7 @@ class AIEngineer:
 <td width="33%" align="center">
 
 ### 📘 **ML Mastery**
+
 **[Beginner → Advanced Guide](https://github.com/Ananddd06/Beginner_to_Advance_Machine_Learning_for_Freshers)**
 
 Complete ML roadmap with hands-on projects, real datasets, and production techniques.
@@ -145,6 +148,7 @@ Complete ML roadmap with hands-on projects, real datasets, and production techni
 <td width="33%" align="center">
 
 ### ⚙️ **Predictive Maintenance**
+
 **[MLOps Pipeline](https://github.com/Ananddd06/PredictiveMaintenance_AIStudy)**
 
 End-to-end system with live Streamlit deployment for real-time machinery monitoring.
@@ -155,6 +159,7 @@ End-to-end system with live Streamlit deployment for real-time machinery monitor
 <td width="33%" align="center">
 
 ### 📝 **ML Deep Dive**
+
 **[Theory + Code](https://github.com/Ananddd06/Machine_Learning_indepth_notes.git)**
 
 Comprehensive notes covering algorithms, implementations, and best practices.
@@ -172,18 +177,21 @@ Comprehensive notes covering algorithms, implementations, and best practices.
 ## 💻 TECH ARSENAL
 
 ### **DEEP LEARNING & AI**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD21F?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### **DATA & COMPUTATION**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 
 ### **MLOPS & DEPLOYMENT**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194EF?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
@@ -196,11 +204,6 @@ Comprehensive notes covering algorithms, implementations, and best practices.
 <div align="center">
 
 ## 📊 GITHUB ANALYTICS
-
-<a href="https://github.com/Ananddd06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-</a>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
@@ -256,7 +259,7 @@ Comprehensive notes covering algorithms, implementations, and best practices.
 🔬 Building comprehensive LLM implementations  
 📚 Creating educational content for 10,000+ developers  
 ⚡ Optimizing inference for production deployments  
-🌍 Contributing to open-source AI ecosystem  
+🌍 Contributing to open-source AI ecosystem
 
 ---
 

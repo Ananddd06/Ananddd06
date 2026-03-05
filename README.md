@@ -197,13 +197,18 @@ Comprehensive notes covering algorithms, implementations, and best practices.
 
 ## 📊 GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+<a href="https://github.com/Ananddd06">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananddd06&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananddd06&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=00D9FF&point=FFFFFF" alt="Activity Graph" width="90%" />
+</p>
 
 </div>
 

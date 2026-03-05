@@ -221,8 +221,8 @@ Comprehensive notes covering algorithms, implementations, and best practices.
 
 ## 🎯 IMPACT METRICS
 
-![](https://img.shields.io/badge/🎓_Students_Helped-10,000+-FF6B35?style=for-the-badge)
-![](https://img.shields.io/badge/📦_Open_Source_Projects-15+-00D9FF?style=for-the-badge)
+![](https://img.shields.io/badge/🎓_Students_Helped-100+-FF6B35?style=for-the-badge)
+![](https://img.shields.io/badge/📦_Open_Source_Projects-5-00D9FF?style=for-the-badge)
 ![](https://img.shields.io/badge/⭐_GitHub_Stars-500+-FFD700?style=for-the-badge)
 ![](https://img.shields.io/badge/🔥_Contribution_Streak-365+_Days-FF4500?style=for-the-badge)
 

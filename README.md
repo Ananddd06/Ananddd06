@@ -3,14 +3,14 @@
 # ⚡ ANAND J ⚡
 
 ```ascii
-╔═══════════════════════════════════════════════════════════════╗
-║  █████╗ ██╗    ███╗   ███╗██╗         ███████╗███╗   ██╗ ██████╗ ║
-║ ██╔══██╗██║    ████╗ ████║██║         ██╔════╝████╗  ██║██╔════╝ ║
-║ ███████║██║    ██╔████╔██║██║         █████╗  ██╔██╗ ██║██║  ███╗║
-║ ██╔══██║██║    ██║╚██╔╝██║██║         ██╔══╝  ██║╚██╗██║██║   ██║║
-║ ██║  ██║██║    ██║ ╚═╝ ██║███████╗    ███████╗██║ ╚████║╚██████╔╝║
-║ ╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ║
-╚═══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║   █████╗ ██╗    ███╗   ███╗██╗         ███████╗███╗   ██╗ ██████╗ ██╗███╗   ██╗███████╗███████╗██████╗  ║
+║  ██╔══██╗██║    ████╗ ████║██║         ██╔════╝████╗  ██║██╔════╝ ██║████╗  ██║██╔════╝██╔════╝██╔══██╗ ║
+║  ███████║██║    ██╔████╔██║██║         █████╗  ██╔██╗ ██║██║  ███╗██║██╔██╗ ██║█████╗  █████╗  ██████╔╝ ║
+║  ██╔══██║██║    ██║╚██╔╝██║██║         ██╔══╝  ██║╚██╗██║██║   ██║██║██║╚██╗██║██╔══╝  ██╔══╝  ██╔══██╗ ║
+║  ██║  ██║██║    ██║ ╚═╝ ██║███████╗    ███████╗██║ ╚████║╚██████╔╝██║██║ ╚████║███████╗███████╗██║  ██║ ║
+║  ╚═╝  ╚═╝╚═╝    ╚═╝     ╚═╝╚══════╝    ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝ ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=Building+Intelligence+From+Scratch;Transformers+%E2%9A%A1+Neural+Networks+%E2%9A%A1+MLOps;Open+Source+Educator+%7C+AI+Architect;No+Black+Boxes+%E2%80%A2+Pure+Mathematics+%E2%80%A2+Production+Code" alt="Typing SVG" />
@@ -197,12 +197,13 @@ Comprehensive notes covering algorithms, implementations, and best practices.
 
 ## 📊 GITHUB ANALYTICS
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D9FF&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ananddd06&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ananddd06&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Top Languages" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ananddd06&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=00D9FF&point=FFFFFF)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ananddd06&theme=radical&hide_border=true&background=0D1117&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ananddd06&theme=react-dark&hide_border=true&bg_color=0D1117&color=FF6B35&line=00D9FF&point=FFFFFF" alt="Activity Graph" />
 
 </div>
 
